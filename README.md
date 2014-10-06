@@ -1,4 +1,5 @@
 == Freeing The Clones ==
+
 Freeing the Clones (also called 'Pebbling the Chessboard') 
 is a game where there are checker pieces called clones/pebbles. 
 Clones are denoted by the circles in the cells(squares).
