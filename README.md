@@ -1,4 +1,5 @@
-== Freeing The Clones ==
+Freeing The Clones
+==================
 
 Freeing the Clones (also called 'Pebbling the Chessboard') 
 is a game where there are checker pieces called clones/pebbles. 
@@ -14,4 +15,4 @@ are obstructed, in which case the cloning would be unsuccessful.
 If you are stuck, feel free to click on the 'Show answer' button down below.
 <hr>
 Freeing the Clones v1.2.3 implementation in Java by Ng Cheuk Yin
-For extra help, please contact me by email <cheukyin699@yahoo.com>.
+For extra help, please contact me by email <mailto:cheukyin699@yahoo.com>.
