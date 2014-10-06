@@ -26,7 +26,6 @@ public class InstructionPanel extends JPanel {
 			+ "For extra help, please contact me by email <cheukyin699@yahoo.com> or in person.";
 	private GridBagLayout gridbaglayout;
 	private JTextPane instructions;
-	private JScrollPane iscrollpane;
 	
 	public InstructionPanel() {
 		gridbaglayout = new GridBagLayout();
@@ -34,7 +33,6 @@ public class InstructionPanel extends JPanel {
 		GridBagConstraints c = new GridBagConstraints();
 		
 		instructions = new JTextPane();
-		iscrollpane = new JScrollPane(instructions);
 		
 		instructions.setText(InstructionsText);
 		
@@ -43,7 +41,7 @@ public class InstructionPanel extends JPanel {
 		c.weighty = 1;
 		c.gridx = 0;
 		c.gridy = 0;
-		this.add(iscrollpane, c);
+		this.add(instructions, c);
 		
 		this.setVisible(true);
 		this.setBackground(Color.black);

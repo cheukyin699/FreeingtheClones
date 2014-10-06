@@ -10,7 +10,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 
 public class Frame extends JFrame implements ActionListener {
-	public static final String VERSION_NO = "v1.2.3";
+	public static final String VERSION_NO = "v1.2.4";
 	public static final String HELP =
 			"Freeing the Clones " + VERSION_NO + " by Ng Cheuk Yin\n\n"
 			+ "Parameters:\n"
