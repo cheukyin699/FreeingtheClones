@@ -14,5 +14,5 @@ You cannot clone if there are no clones on the square or if either of the two ne
 are obstructed, in which case the cloning would be unsuccessful.
 If you are stuck, feel free to click on the 'Show answer' button down below.
 <hr>
-Freeing the Clones v1.2.4 implementation in Java by Ng Cheuk Yin
+Freeing the Clones v1.2.4 implementation in Java by Ng Cheuk Yin<br>
 For extra help, please contact me by email <mailto:cheukyin699@yahoo.com>.
